@@ -121,7 +121,7 @@
             this.Car.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.Car.ErrorImage = ((System.Drawing.Image)(resources.GetObject("Car.ErrorImage")));
             this.Car.Image = ((System.Drawing.Image)(resources.GetObject("Car.Image")));
-            this.Car.Location = new System.Drawing.Point(116, 366);
+            this.Car.Location = new System.Drawing.Point(83, 367);
             this.Car.Name = "Car";
             this.Car.Size = new System.Drawing.Size(50, 50);
             this.Car.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
