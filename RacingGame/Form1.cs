@@ -209,7 +209,7 @@ namespace RacingGame
             }
             if (e.KeyCode == Keys.Up)
             {
-                if (gamespeed < 21)
+                if (gamespeed < 20)
                     gamespeed++;
             }
             if (e.KeyCode == Keys.Down)
